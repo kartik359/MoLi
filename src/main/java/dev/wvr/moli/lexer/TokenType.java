@@ -1,0 +1,19 @@
+package dev.wvr.moli.lexer;
+
+public enum TokenType {
+    NUMBER,
+    STRING,
+    IDENTIFIER,
+
+    PLUS, MINUS, STAR, SLASH, PERCENT,
+    AND, OR, NOT,
+    EQ, NEQ, LT, LTE, GT, GTE,
+    QUESTION, COLON, NULL_COALESCE,
+    ASSIGN, SEMICOLON, COMMA, DOT,
+    LPAREN, RPAREN, LBRACE, RBRACE, LBRACKET, RBRACKET,
+    ARROW,
+
+    RETURN, BREAK, CONTINUE,
+
+    EOF
+}
